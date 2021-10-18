@@ -1,5 +1,5 @@
 import React from 'react';
-import {Originals,Action,Trending} from '../urls'
+import {Originals} from '../urls'
 import Signup from '../Component/Tvshows/TvShows';
 
 function TvShowsPage() {

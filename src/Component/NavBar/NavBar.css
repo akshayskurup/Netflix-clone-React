@@ -11,9 +11,19 @@ body{
     justify-content: space-between;
     background: rgba(17, 17, 17, 0);
 }
-.about{
-    margin-left: 7rem;
-    margin-top: 3px;
+.home{
+    margin-left: 8rem;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.tvShows{
+    margin-right: 80%;
+    margin-top: 1px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
 }
 .logo{
     position: fixed;
