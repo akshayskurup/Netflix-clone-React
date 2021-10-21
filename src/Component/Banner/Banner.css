@@ -13,6 +13,9 @@
     font-weight: 800;
     padding-top: 0.3rem;
 }
+.banner_buttons{
+    margin-left: -15px;
+}
 .button{
     color: #fff;
     outline: none;
@@ -27,9 +30,17 @@
     cursor: pointer;
     margin-left: 1rem;
 }
+
+
+.button-icon{
+    width: 15px;
+    margin-left: 5px;
+}
 .button:hover{
     color: black;
     background-color: #e6e6e6;
+    text-decoration: none;
+    
 }
 .discription{
     width: 45rem;
